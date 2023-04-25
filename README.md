@@ -1,3 +1,4 @@
 # OIBSIP_5
-This is Stopwatch app using Java and xml 
+The Task is completed in Oasis Infobyte Internship
+This is Stopwatch app using Java and xml ,
 IDE used Android Studio
